@@ -1,5 +1,9 @@
 
-
+Made with 
+- Typescript
+- chakraui
+- framemotion
+- checkout with whatsapp
 ## Deployed on Vercel
 
 ttps://store-wapp-checkout.vercel.app/
