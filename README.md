@@ -6,7 +6,7 @@ Made with
 - checkout with whatsapp
 ## Deployed on Vercel
 
-ttps://store-wapp-checkout.vercel.app/
+https://store-wapp-checkout.vercel.app/
 
 ## Getting Started
 
