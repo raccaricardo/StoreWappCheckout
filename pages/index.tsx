@@ -96,7 +96,7 @@ const IndexRoute: React.FC<Props> = ( { products }) => {
             <Button 
               as={Link}
               width="fit-content"
-              href={`https://wa.me/5493533473625?text=${encodeURI(text)}`}
+              href={`https://wa.me/5493534271409?text=${encodeURI(text)}`}
               colorScheme="whatsapp"
               isExternal
               leftIcon={
